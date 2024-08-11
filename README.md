@@ -1,4 +1,7 @@
 # Excel Projects
 
-1. Sales Charts and Dashboards
-   Used sales data to create a series of charts, and then organized them on a dashboard. This is part of a guided project on [Coursera](https://www.coursera.org/learn/create-charts-dashboards-using-microsoft-excel/home/info) taught by Paula Del Rey
+1. **Sales Charts and Dashboards**
+
+   I used sales data to create a series of charts, and then organized them on a dashboard. This is part of a guided project on [Coursera](https://www.coursera.org/learn/create-charts-dashboards-using-microsoft-excel/home/info).
+   
+   ![Create Charts and Dashboards Using Microsoft Excel](https://github.com/user-attachments/assets/53ac0107-b0c6-47bd-af3b-a0c1ae980bb0)
